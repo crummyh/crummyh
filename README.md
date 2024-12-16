@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm @crummyh!</h1>
+<h1 align="center">Hi, I'm @crummyh! :wave:</h1>
 
 - 👀 I’m interested in computer science, electrical engineering, mechanical engineering...
 - 🌱 I’m currently learning Java
@@ -14,7 +14,7 @@
 </p>
   
 <p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github" align="center">
+  <a href="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github" align="center"></a>
   <img src="https://github-profile-trophy.vercel.app/?username=crummyh&theme=dark" align="center">
 </p>
 
@@ -23,7 +23,7 @@
   - Edward A. Murphy Jr.
 </p>
 
-<h3 align="center">My workspace</h3>
+<h3 align="center">My workspace :computer:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
   <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
