@@ -5,4 +5,4 @@
 - 💻 I would like to learn Javascript, Rust and Go
 - 😄 Pronouns: he/him
 
-Most of my projects are on GitLab, I will add a link at some point...
+Most of my projects are on [Gitlab](https://gitlab.com/crummyh)
