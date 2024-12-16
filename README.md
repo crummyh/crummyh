@@ -44,6 +44,5 @@
 <h3 align="center">Things I dislike</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
