@@ -14,8 +14,9 @@
 </p>
   
 <p align="center">  
-  <a href="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github" align="center"></a>
-  <img src="https://github-profile-trophy.vercel.app/?username=crummyh&theme=dark" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github">
+  <img src="https://github-profile-trophy.vercel.app/?username=crummyh&theme=dark">
+  <a href="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg"><img src="https://lkjadsnfakbsdttauoidnn.ausbdkfajbsdsfa/aisubdfasduibasdd/"></a>
 </p>
 
 <p align="center">
