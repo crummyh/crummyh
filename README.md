@@ -6,25 +6,28 @@
 - 💻 I would like to learn Javascript, Rust and Go
 - 😄 Pronouns: he/him
 
+<h4 align="center">
+  Find me on
+</h4>
 <p align="center">
-Most of my projects are on <a href="https://gitlab.com/crummyh/">Gitlab</a>
+  <a href="https://gitlab.com/crummyh"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
-
+  
 <p align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=crummyh&theme=dark" align="center">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Murphy's-Law-lavender?style=for-the-badge">
-  <a href="https://gitlab.com/crummyh"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <q>Anything that can go wrong will go wrong.</q>
+  - Edward A. Murphy Jr.
 </p>
 
 <h3 align="center">My workspace</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
-  <img src="https://img.shields.io/badge/AMD_Ryzen-7_5700X-red?style=for-the-badge&color=%23ef0707">
-  <img src="https://img.shields.io/badge/AMD_RX-6600%20XT-red?style=for-the-badge&color=%23ef0707">
+  <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+  <img src="https://img.shields.io/badge/AMD%20Radeon_RX_6600_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 </p>
@@ -33,4 +36,5 @@ Most of my projects are on <a href="https://gitlab.com/crummyh/">Gitlab</a>
 <p align="center">
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
