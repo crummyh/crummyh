@@ -28,8 +28,8 @@
 
 <h3 align="center">My workspace :computer:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img src="https://img.shields.io/badge/AMD%20Radeon_RX_6600_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+  <img src="https://img.shields.io/badge/Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto">
+  <img src="https://img.shields.io/badge/Radeon_RX_6600_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto">
   <img src="https://img.shields.io/badge/16_GB-RAM-blue?style=for-the-badge">
 </p>
 
