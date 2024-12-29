@@ -16,8 +16,8 @@
 </p>
   
 <p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github">
-  <img src="https://github-profile-trophy.vercel.app/?username=crummyh&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github_dark">
+  <img src="https://github-profile-trophy.vercel.app/?username=crummyh&theme=gitdimmed&no-bg=true&no-frame=true">
   <a href="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg"><img src="https://lkjadsnfakbsdttauoidnn.ausbdkfajbsdsfa/aisubdfasduibasdd/"></a>
 </p>
 
