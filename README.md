@@ -2,9 +2,9 @@
 
 <ul>
   <li>👀 I’m interested in computer science, electrical engineering, mechanical engineering...</li>
-  <li>🌱 I’m currently learning Java</li>
+  <li>🌱 I’m currently learning Java and *sigh* Javascript</li>
   <li>⚙️ I’m working on <a href="https://nicoletfear.com/">FRC team 4786 (Nicolet FEAR)</a>, as well as on personal projects</li>
-  <li>💻 I would like to learn Rust (and will likely be forced to learn Javascript)</li>
+  <li>💻 I would like to learn Rust</li>
   <li>😄 Pronouns: he/him</li>
 </ul>
 
