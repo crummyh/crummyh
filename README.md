@@ -14,16 +14,6 @@
 <p align="center">
   <a href="https://gitlab.com/crummyh"><img src="https://img.shields.io/badge/GitLab-whitesmoke?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjkzIDkzIDE5NCAxOTQiPjxkZWZzPjxzdHlsZT4uYntmaWxsOiNmYzZkMjZ9PC9zdHlsZT48L2RlZnM+PHBhdGggc3R5bGU9ImZpbGw6I2UyNDMyOSIgZD0ibTI4Mi44MyAxNzAuNzMtLjI3LS42OS0yNi4xNC02OC4yMmE2LjgxIDYuODEgMCAwIDAtMi42OS0zLjI0IDcgNyAwIDAgMC04IC40MyA3IDcgMCAwIDAtMi4zMiAzLjUybC0xNy42NSA1NGgtNzEuNDdsLTE3LjY1LTU0YTYuODYgNi44NiAwIDAgMC0yLjMyLTMuNTMgNyA3IDAgMCAwLTgtLjQzIDYuODcgNi44NyAwIDAgMC0yLjY5IDMuMjRMOTcuNDQgMTcwbC0uMjYuNjlhNDguNTQgNDguNTQgMCAwIDAgMTYuMSA1Ni4xbC4wOS4wNy4yNC4xNyAzOS44MiAyOS44MiAxOS43IDE0LjkxIDEyIDkuMDZhOC4wNyA4LjA3IDAgMCAwIDkuNzYgMGwxMi05LjA2IDE5LjctMTQuOTEgNDAuMDYtMzAgLjEtLjA4YTQ4LjU2IDQ4LjU2IDAgMCAwIDE2LjA4LTU2LjA0WiIvPjxwYXRoIGNsYXNzPSJiIiBkPSJtMjgyLjgzIDE3MC43My0uMjctLjY5YTg4LjMgODguMyAwIDAgMC0zNS4xNSAxNS44TDE5MCAyMjkuMjVjMTkuNTUgMTQuNzkgMzYuNTcgMjcuNjQgMzYuNTcgMjcuNjRsNDAuMDYtMzAgLjEtLjA4YTQ4LjU2IDQ4LjU2IDAgMCAwIDE2LjEtNTYuMDhaIi8+PHBhdGggc3R5bGU9ImZpbGw6I2ZjYTMyNiIgZD0ibTE1My40MyAyNTYuODkgMTkuNyAxNC45MSAxMiA5LjA2YTguMDcgOC4wNyAwIDAgMCA5Ljc2IDBsMTItOS4wNiAxOS43LTE0LjkxUzIwOS41NSAyNDQgMTkwIDIyOS4yNWMtMTkuNTUgMTQuNzUtMzYuNTcgMjcuNjQtMzYuNTcgMjcuNjRaIi8+PHBhdGggY2xhc3M9ImIiIGQ9Ik0xMzIuNTggMTg1Ljg0QTg4LjE5IDg4LjE5IDAgMCAwIDk3LjQ0IDE3MGwtLjI2LjY5YTQ4LjU0IDQ4LjU0IDAgMCAwIDE2LjEgNTYuMWwuMDkuMDcuMjQuMTcgMzkuODIgMjkuODJMMTkwIDIyOS4yMVoiLz48L3N2Zz4="></a>
 </p>
-  
-<p align="center">  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crummyh&theme=github_dark">
-  <a href="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg"><img src="https://lkjadsnfakbsdttauoidnn.ausbdkfajbsdsfa/aisubdfasduibasdd/"></a>
-</p>
-
-<p align="center">
-  <q>Anything that can go wrong will go wrong.</q>
-  - Edward A. Murphy Jr.
-</p>
 
 <h3 align="center">My workspace :computer:</h3>
 <p align="center">
