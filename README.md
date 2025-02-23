@@ -2,12 +2,24 @@
 
 <ul>
   <li>👀 I’m interested in computer science, electrical engineering, mechanical engineering...</li>
-  <li>🌱 I’m currently learning Java and (<i>sigh</i>) Javascript</li>
+  <li>🌱 I’m currently learning Java.
   <li>⚙️ I’m working for <a href="https://nicoletfear.com/">FRC Team 4786 (Nicolet FEAR)</a>, as well as on personal projects</li>
   <li>💻 I would love to learn Rust</li>
   <li>😄 Pronouns: he/him</li>
 </ul>
 
+<h3>Current Projects</h3>
+<par>
+  In no particular order:
+</par>
+  <ul>
+    <li>Java Implementation of the ADA* algorithem</li>
+    <li>A dumb Mincraft mod that someone else already made</li>
+    <li>Constently updating my setup and playing around with themes</li>
+    <li>Lots for work for Nicolet FEAR (Not a lot of programing though)</li>
+    <li>Other small things here and their</li>
+  </ul>
+  
 <h4>
   Find me on
 </h4>
