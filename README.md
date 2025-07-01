@@ -2,7 +2,7 @@
 
 <ul>
   <li>👀 I’m interested in computer science, mechanical engineering...</li>
-  <li>🌱 I’m currently learning basic Web Development (Help please).
+  <li>🌱 I’m currently learning basic Web Development (please help).
   <li>⚙️ I’m working for <a href="https://nicoletfear.com/">FRC Team 4786 (Nicolet FEAR)</a>, as well as on personal projects</li>
   <li>💻 I would love to learn Rust</li>
   <li>😄 Pronouns: he/him</li>
